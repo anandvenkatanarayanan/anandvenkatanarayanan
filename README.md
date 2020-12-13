@@ -1,16 +1,15 @@
-### Hi there 👋
+### About me
 
-<!--
-**anandvenkatanarayanan/anandvenkatanarayanan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I do three different things every day. 
 
-Here are some ideas to get you started:
+- Advise business and editorial strategy and am the chief :moneybag: for hasgeek.
+- Research disinformation, cyber weapons and security strategy. 
+- Privacy advocacy in India and elsewhere. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Three fun facts about me. 
+
+- My entire belongings can fit in a suit case, but my books and hardware need 300 Square feet to fit in. 
+- Was involved in two high profile litigations in the Digital ID space, as an expert witness (India, Kenya) and partially won and lost both. But Kenya was more fun than India. 
+- Fascinated by Sociopaths, Cyber criminals, Scammers and spend a lot of time thinking about them.
+
+Pronouns: He/him.
