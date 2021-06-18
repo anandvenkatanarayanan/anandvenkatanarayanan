@@ -2,7 +2,7 @@
 
 I do three different things every day. 
 
-- Advise business and editorial strategy and am the chief :moneybag: for hasgeek.
+- Advise business and editorial strategy, Curate Privacy Mode and non-executive director at hasgeek.
 - Research disinformation, cyber weapons and security strategy. 
 - Privacy advocacy in India and elsewhere. 
 
