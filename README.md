@@ -1,9 +1,10 @@
 ### About me
 
-I do three different things every day. 
+I do four different things every day. 
 
 - Advise business and editorial strategy, Curate Privacy Mode and Non-Executive Director at Hasgeek.
-- Research disinformation, cyber weapons and security strategy. 
+- Security and Process advisory and consultancy for those who ask for it. 
+- Research disinformation, cyber security and cyber weapons and write about them (occassionally).
 - Privacy advocacy in India and elsewhere. 
 
 Three fun facts about me. 
